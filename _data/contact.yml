@@ -1,15 +1,19 @@
 #  The contact options.
 
-- type: github
-  icon: "fab fa-github"
-
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+- type: linkedin
+  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+  url:  'https://www.linkedin.com/in/nelida-schalich-ayllon-7533421b7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRuSm%2BAilSN62bXitR3UTOA%3D%3D'                  # Fill with your Linkedin homepage
+
+- type: github
+  icon: "fab fa-github"
+
+#- type: rss
+#  icon: "fas fa-rss"
+#  noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
