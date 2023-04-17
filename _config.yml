@@ -38,11 +38,11 @@ social:
   email: nelischalich@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/nelischalich # change to your twitter homepage
-    - https://github.com/nelischalich # change to your github homepage
+    #- https://twitter.com/nelischalich # change to your twitter homepage
+    #- https://github.com/nelischalich # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/nelida-schalich-ayllon-7533421b7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRuSm%2BAilSN62bXitR3UTOA%3D%3D
 
 google_site_verification: # fill in to your verification string
 

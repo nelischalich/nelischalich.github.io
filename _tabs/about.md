@@ -44,7 +44,7 @@ As mentioned previously, I am a student at IIT and I will be entering my fourth 
 * Prejudice and Stigma (Psych)
 * The Vikings (Humanities)
 * Women in Computing History (History)
-* Sociology of Environmental Science 
+* Sociology of Climate Change
 * Human Sexuality (Psych)
 * Child Development (Psych)
 * Nutrition and Wellness (Food Science)
